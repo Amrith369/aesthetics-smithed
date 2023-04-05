@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Aesthethics",
+        "description": "Natural Enhancement Datapack",
+        "icon": {
+            "item": "oak_leaves"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:amrith",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
